@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
- - title: posts by <a href="https://weirder.earth/@beehiveth">beehiveth</a>
+  - title: entries by <a href="https://weirder.earth/@beehiveth">beehiveth</a>
     entries:
-      - title: ""
-        post_list: true
+      - title: Discord and its alternatives
+        url: 2022-01-23-discord-alternatives.md
