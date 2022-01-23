@@ -24,3 +24,9 @@ So, as it is, I have these choices to make:
 - Make my spaces as accessible and personal as possible.
 
 For now, I will think about software that is pleasant to use, and I will include Discord in the list to evaluate it fairly against other options. Features-wise, it would probably win, but is it worth the persistent unease? Eh.
+
+***
+
+## Links
+- [Go back to main site]()
+- [Mastodon](https://weirder.earth/@beehiveth)
