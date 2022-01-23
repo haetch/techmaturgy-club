@@ -1,0 +1,107 @@
+---
+layout: post
+title: PF2E Character Sheet [Screen Reader]
+---
+
+## Basics
+- Vitya Promat
+- Level `1` Inventor
+- Technological Fleshwarp
+- Back-alley doctor
+- Lawful Neutral
+- Medium Humanoid, `25ft` speed
+- `1` Hero Point
+
+## Saves and HP
+- Hit Points `19` out of `19` (+`0`)
+- Armor Class `11` (Unarmored, Unshielded)
+- Class DC `16`
+- Fortitude `+6`
+- Reflex `+2`
+- Will `+6`
+- Conditions: `None`
+
+## Ability Scores
+**STRENGTH `2 (14)`**
+- Athletics
+
+**DEXTERITY `-1 (8)`**
+- Acrobatics
+- Stealth
+- Thievery
+
+**CONSTITUTION `1 (12)`**
+
+**INTELLIGENCE `3 (16)`**
+- `+2` Arcana
+- `+2` Crafting
+- `+2` Lore (Underworld)
+- Occultism
+- `+2` Society
+
+**WISDOM `1 (12)`**
+- `+2` Medicine
+- `+2` Nature
+- `+2` Perception
+- Religion
+- `+2` Survival
+
+**CHARISMA `2 (14)`**
+- Deception
+- `+2` Diplomacy
+- `+2` Intimidation
+- Performance
+
+## Strikes
+### Melee
+- **Unarmed:** `+4` to Hit, `1d4+2` Bludgeoning
+- **Claw (Living Weapon):** `+4` to Hit, `1d4-1` Finesse
+
+### Ranged
+- **Chaos Storm:** `+5` to Hit, `1d6+3` Electric
+
+## Other Proficiencies
+
+- **Languages:** `Common`, `Undercommon`, `Dwarven`, `Goblin`
+- **Weapons:** `+2` Simple, Martial, Unarmed
+- **Armor:** `+2` Light, Medium, Unarmored
+
+
+
+## Features and feats
+
+### Ancestry
+- **Low light vision:** Can see concealed creatures
+- **Unusual anatomy:** `+1` bonus against diseases and poisons
+- **Living weapon:** Extra unarmed attack (Claws, `1d4 slashing`, agile/finesse)
+
+### Heritage
+- **Dulled emotions:** Success = Critical Success on saves against emotion saves.
+
+### Background
+- **Risky surgery:** You can deal `1d8 slashing` to the patient when Treating Wounds. If you do, `+2` bonus to Medicine check and Success = Critical Success.
+
+### Class
+- **Overdrive:** Crafting check with standard DC.
+  - If `Crit Success`, Strikes deal bonus damage = INT for 1 minute. 1 minute cooldown.
+  - If `Success`, Strikes deal half INT bonus damage.
+  - If `Failure`, nothing happens.
+  - If `Crit Failure`, fire damage = level, 1 minute cooldown.
+- **Armor innovation (Exoskeleton):** When in Overdrive, bonus +1 to Athletics too (+2 if Master at Crafting)
+- **Explode:** Reflex save for nearby creatures; if failed, take 2d6 fire around the innovation.
+- **Inventor:** In Downtime, you can invent a formula unknown to you. Half price + Crafting check. If successful, pay the rest in money (get item) or in time (get formula only). Add to formula book.
+- **Shield Block:** Blocking full damage with a shield becomes an action. You take the damage over the Hardness level and the shield breaks.
+- **Built-In Tools:** Access to `Surgical Tools` and `Tinker's Tools` as long as I have access to my innovation. 2 bulk, they don't count towards tool amount limit.
+
+## Currency
+- Gold `15`
+- Silver `0`
+- Copper `0`
+
+## Inventory
+### Worn
+- Hextech cane
+- Steel Shield
+- Full Plate Armor
+  
+### Stowed
