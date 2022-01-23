@@ -10,7 +10,7 @@ favicon: "logo.png" # name+extension of favicon (which must be put on the root f
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "go back to main menu" # customize text for homepage link in post layout
-  date_format: "%dd-%mm-%yy" # customize how date is formatted
+  date_format: "%d/%m/%Y" # customize how date is formatted
   show_description: true # show blog description in home page
 
 sass:
