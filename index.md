@@ -1,4 +1,7 @@
-# About the human behind the screen
+# Techmaturgy Club
+
+## About the human behind the screen
+
 My name's Héctor. I'm a spaniard in his 20s, a former philosophy student and, at the moment, a tentative explorer of adulthood.
 
 
@@ -12,7 +15,7 @@ I am currently undertaking an experimental depth year (see this link for [the or
 I will be documenting the journey on the entries listed below, as well as other random longform thoughts.
 
 
-# List of topics
+## List of topics
 - [FOSS alternatives](foss-alternatives.md)
 
 <a rel="me" href="https://weirder.earth/@beehiveth"></a>
