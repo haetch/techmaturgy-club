@@ -1,4 +1,5 @@
 # FOSS alternatives
+
 ## Topic
 I believe in the motivating principles of libre software as directly democratic, public service that has the potential to be accessible in every sense of the word. Most of its implementations, though, are a factual hellscape to navigate, learn, implement... From my mildly tech-knowledgeable user point of view. Here are some musings that involve this topic.
 
@@ -23,3 +24,9 @@ So, as it is, I have these choices to make:
 - Make my spaces as accessible and personal as possible.
 
 For now, I will think about software that is pleasant to use, and I will include Discord in the list to evaluate it fairly against other options. Features-wise, it would probably win, but is it worth the persistent unease? Eh.
+
+***
+
+## Links
+- [Go back to main site](https://techmaturgy.club)
+- [Mastodon](https://weirder.earth/@beehiveth)
