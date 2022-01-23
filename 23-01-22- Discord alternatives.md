@@ -1,3 +1,8 @@
+---
+layout: post
+title: Is Discord the best medium?
+---
+
 # FOSS alternatives
 
 ## Topic
