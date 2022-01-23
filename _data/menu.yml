@@ -2,8 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  title: beehiveth
-  post_list: 
-    show_more: true
+  - title: beehiveth
+    post_list: 
+      show_more: true
       show_more_url: software.md
       show_more_text: software
