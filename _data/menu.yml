@@ -3,7 +3,5 @@
 
 entries:
   - title: beehiveth
-    post_list: 
-      show_more: true
-      show_more_url: software.md
-      show_more_text: posts about software
+    post_list:
+      category: software
