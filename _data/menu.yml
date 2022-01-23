@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: posts by <a href="https://weirder.earth/@beehiveth">beehiveth</a>
+ - title: posts by <a href="https://weirder.earth/@beehiveth">beehiveth</a>
   entries:
     - title: ""
       post_list: true
