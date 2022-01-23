@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Depth year - Discord and its alternatives
+category: software
 ---
 
 I feel like I am succeeding in the social aspect of my depth year (at least in my online relations); I am trying to be comfortable in topics of conversation beyond League and not struggling as much as I expected. There's still something that feels off about the process (beyond not being as dilligent in my real life relations) and I think the fact that I am on a platform with heavy telemetry, far from self administered and for which I have to shill 120€ a year for full functionality pisses me off. Oh, Discord, you absolute binch.
