@@ -4,5 +4,5 @@
 entries:
   - title: posts by <a href="https://weirder.earth/@beehiveth">beehiveth</a>
   entries:
-  - title: ""
-    post_list: true
+    - title: ""
+      post_list: true
