@@ -1,7 +1,7 @@
 body {
     background-color: white;
     color: black;
-    font-family: 'Andale Mono', monospace;
+    font-family: "Andale Mono", AndaleMono, monospace;
     font-size: 14px;
     font-weight: 600;
     text-align: justify;
