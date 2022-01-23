@@ -28,5 +28,5 @@ For now, I will think about software that is pleasant to use, and I will include
 ***
 
 ## Links
-- [Go back to main site]()
+- [Go back to main site](https://techmaturgy.club)
 - [Mastodon](https://weirder.earth/@beehiveth)
