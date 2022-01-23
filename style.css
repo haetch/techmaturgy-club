@@ -1,8 +1,9 @@
 body {
     background-color: white;
     color: black;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Andale Mono', Courier, monospace;
     font-size: 14px;
+    font-weight: 600;
     text-align: justify;
     line-height: normal;
     margin: 10% 20% 10% 20%;
