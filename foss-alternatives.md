@@ -16,6 +16,7 @@ So, as it is, I have these choices to make:
 - I could look for less customizable software.
 - I could look for paid hosting, though cheaper than Nitro.
 
+
 2. Learn how to be at peace with Discord.
 - Save enough yearly for Nitro.
 - Let go of my privacy concerns, I suppose?
