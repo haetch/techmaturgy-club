@@ -1,7 +1,3 @@
----
-type: Journal
----
-
 # FOSS alternatives
 
 ## Topic
