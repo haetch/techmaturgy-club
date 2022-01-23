@@ -5,8 +5,9 @@ body {
     font-size: 18px;
     text-align: justify;
     line-height: normal;
-    margin: 10% 30% 10% 30%;
-    min-width: 60%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    min-width: 40%;
 }
 
 h1 {}
