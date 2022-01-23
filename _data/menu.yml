@@ -5,5 +5,5 @@ entries:
   title: beehiveth
   post_list: 
     show_more: true
-      show_more_url: /beehiveth/archives/software.md
+      show_more_url: software.md
       show_more_text: software
