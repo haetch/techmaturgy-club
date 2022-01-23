@@ -1,8 +1,0 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
-entries:
-  - title: entries by <a href="https://weirder.earth/@beehiveth">beehiveth</a>
-    entries:
-      - title: Discord and its alternatives
-        url: ./2022-01-23-discord-alternatives.md
