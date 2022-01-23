@@ -3,9 +3,7 @@ body {
     color: black;
     font-family: "Andale Mono", AndaleMono, monospace;
     font-size: 18px;
-    text-align: justify;
     line-height: normal;
-    max-width: fit-content;
 }
 
 h1 {}
