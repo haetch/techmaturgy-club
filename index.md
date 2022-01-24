@@ -6,6 +6,7 @@ title: Techmaturgy Club
 > My name's Héctor. I'm a spaniard in his 20s, a former philosophy student and, at the moment, a tentative explorer of adulthood. You can find me at [Mastodon](https://weirder.earth/@beehiveth).
 
 ## Entries
-- (18 Jul 2021) [League of Legends LFG profile](entries_beehiveth/180721-lfg.md)
-- (13 Jan 2022) [Example of an accessible Pathfinder 2E character sheet](entries_beehiveth/130122-pf2e-viktor.md)
-- (23 Jan 2022) [Depth year - Discord and its alternatives](entries_beehiveth/230122-discord-alternatives.md)
+- (18 Jul 2021) [League of Legends LFG profile](entries/180721-lfg.md)
+- (22 Nov 2021) [i sing to the body electric - an Arcane fanfic](entries/221121-body-electric.md)
+- (13 Jan 2022) [Example of an accessible Pathfinder 2E character sheet](entries/130122-pf2e-viktor.md)
+- (23 Jan 2022) [Depth year - Discord and its alternatives](entries/230122-discord-alternatives.md)
