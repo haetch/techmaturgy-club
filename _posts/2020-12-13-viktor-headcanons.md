@@ -3,7 +3,10 @@ date: 2020-12-13 00:00:00 -0000
 title: Notes on Viktor's disability
 permalink: /viktor-headcanons
 ---
-> These are notes I have jotted down on margins; don't expect coherence or formality
+> These are notes I have jotted down on margins; don't expect coherence or formality.
+> Content Warnings: `Dissociation`, `Ableism`, `Unsanitary surgery`
+
+
 
 The staff is a mobility aid, but the in-game design fucing sucks = Integrating the hexcore into a functional crutch?
 
