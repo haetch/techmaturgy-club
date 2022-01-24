@@ -4,13 +4,26 @@ title: Techmaturgy Club # name of the site
 url: https://techmaturgy.club # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A small, simple journal for techmaturgists around the world.
+  A minimal public thought dump.
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "go back to main menu" # customize text for homepage link in post layout
-  date_format: "%d-%m-%Y" # customize how date is formatted
+  date_format: "%d/%m/%Y" # customize how date is formatted
   show_description: false # show blog description in home page
+
+defaults:
+  -
+    scope:
+      path: "entries" # an empty string here means all files in the project
+    values:
+      published: true
+      layout: "post"
+  -
+    scope:
+      path: "private" # an empty string here means all files in the project
+    values:
+      published: false
 
 sass:
   style: :compressed

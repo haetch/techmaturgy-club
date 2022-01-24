@@ -1,7 +1,7 @@
 ---
-layout: post
 date: 2021-11-22 00:00:00 -0000
 title: i sing to the body electric (especially when my power's out)
+permalink: /body-electric
 ---
 
 > Viktor is, among other things, a body. He is, thanks to his body, so much more.
