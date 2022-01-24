@@ -1,6 +1,6 @@
 ---
 date: 2022-01-24 00:00:00 -0000
-title: Is Discord the right tool for my depth year?
+title: Who am I without League of Legends?
 permalink: /league-as-identity
 ---
 
