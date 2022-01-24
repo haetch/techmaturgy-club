@@ -4,6 +4,7 @@ title: Notes on Viktor's disability
 permalink: /viktor-headcanons
 ---
 > These are notes I have jotted down on margins; don't expect coherence or formality.
+>
 > Content Warnings: `Dissociation`, `Ableism`, `Unsanitary surgery`
 
 
