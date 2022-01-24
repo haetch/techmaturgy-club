@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Sing to the Body Electric
+title: i sing to the body electric (especially when my power's out)
 ---
 
 > Viktor is, among other things, a body. He is, thanks to his body, so much more.
@@ -9,7 +9,6 @@ I am disabled and angry about people taking disabled characters and turning them
 
 `Arcane (2021)`, `Character study`, `Viktor (League of Legends)`, `Transhumanism`, `Disability`
 
-## i sing to the body electric (especially when my power's out)
 
 Viktor did not remember a time before his family lived in the undercity, not that he had been more than an infant when his mother had brought him there. But then again, Viktor did not remember many things from those early years, with his mother working at the mines and himself, spared from the work, roaming the empty daytime undercity until the workers marched out in the evening, full of extenuated joy, into the very places he had explored that day. What he does remember is the kindness of the owners, the thick air that mostly smelled like a gas leak, his first cane. These scraps are enough for him; enough to remember his home before Shimmer, before the careless rule of the Chem-Barons, before the riots that turned his mother into a nameless martyr. The undercity was a kind place that was dealt a shit hand.
 
