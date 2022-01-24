@@ -1,4 +1,4 @@
-theme: no-style
+theme: no-style.scss
 
 title: Techmaturgy Club # name of the site
 url: https://techmaturgy.club # root address of the site
