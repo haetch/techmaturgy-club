@@ -1,4 +1,4 @@
-theme: no-style.scss
+remote_theme: riggraz/no-style-please
 
 title: Techmaturgy Club # name of the site
 url: https://techmaturgy.club # root address of the site
