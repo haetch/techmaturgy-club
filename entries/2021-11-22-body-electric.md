@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-11-22 hh:mm:ss -0000
+date: 2021-11-22 00:00:00 -0000
 title: i sing to the body electric (especially when my power's out)
 ---
 
