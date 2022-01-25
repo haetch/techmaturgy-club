@@ -19,10 +19,6 @@ defaults:
     values:
       published: true
       layout: "post"
-      comments:
-        show: true
-        fediHost: weirder.earth
-        fediusername: beehiveth
 
   -
     scope:

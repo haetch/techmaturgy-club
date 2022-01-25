@@ -2,7 +2,11 @@
 date: 2022-01-24 00:00:00 -0000
 title: Who am I without League of Legends?
 permalink: /league-as-identity
-fediid: 107678161518068572
+comments:
+  show: true
+  fediHost: weirder.earth
+  fediusername: beehiveth
+  fediid: 107678161518068572
 ---
 
 > Content warnings: `Internalized ableism`
