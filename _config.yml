@@ -1,10 +1,10 @@
 remote_theme: riggraz/no-style-please
 
-title: Techmaturgy Club # name of the site
+title: ~beehiveth # name of the site
 url: https://techmaturgy.club # root address of the site
 baseurl: "/beehiveth" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A minimal public thought dump by @beehiveth.
+  A minimal public thought dump by ~beehiveth.
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
