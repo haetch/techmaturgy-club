@@ -1,8 +1,18 @@
 ---
 published: false
 date: 2022-01-25 00:00:00 -0000
-title: The things I like about my daily drivers
-permalink: beehiveth/what-is-good
+title: depth year: the end of metaposting
+permalink: beehiveth/no-meta
 ---
 
-For now, this is a test post to try out comments. I am working on an actual post.
+"Enough" is probably the keyword to my depth year: I am focusing on the people that are already my friends, the supplies I already own, the hobbies I already have, because they are *enough* to be happy. Not merely satisfied, but fulfilled. I have trouble handling my impulses, and feeling unsatisfied has led me to a lot of bad decisions in my relationships, material matters and even my perception of myself. In this depth year, there is an expectation of non-judgement, a mere observation of happening and thought. I find my duality paradoxical: Some days, I am filled with unease and urgency and others with a deep sense of calm, and both feel right in the moment I feel them, and like they should be erradicated (I am judging, and I am desiring change) when I am in the opposite state. I will call this observation meta-thought.
+
+I've always leaned heavy into meta-thought about things I'm interested in (and my own self): analyzing why I like them, if they're objectively a good thing, how they operate socially and technically... And I still enjoy it. But I overanalyze my interests to the point of finding insurmountable flaws in all of them (including meta itself).
+
+For example, my discomfort with Discord has led me to try a lot of alternatives throughout the years, none of which I actually liked. I always ended up going back and thinking, "Man, Discord is actually solid." But every time I overthink my choices in chat software I become uncomfortable with the things I have, but also with the new things I try, always looking for better despite knowing from experience that what I have is enough. I would say that's a sign to stop and re-evaluate if constant analysis of my life is the way to go.
+
+--- 
+
+Am I living my life or just commenting on emptiness? I have a rich inner life, but nothing comparable outside. This is why I urge myself, through this post, to give up on meta-things. My last three posts have been analyses of things that didn't need analysing, and maybe when I stop deep mining for flaws, I can see a bigger picture, less cracked, just worn by love and familiarity.
+
+How can I go about this? Do more, think less? Maybe. I certainly feel more put together when I don't overthink my tasks, especially the ones I'm dreading. Maybe cannonballing into the pool of action is my way of finding peace in enough. I just hope I don't drown.
