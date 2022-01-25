@@ -1,7 +1,7 @@
 ---
 date: 2022-01-24 00:00:00 -0000
 title: Who am I without League of Legends?
-permalink: /league-as-identity
+permalink: beehiveth/league-as-identity
 ---
 
 > Content warnings: `Internalized ableism`
