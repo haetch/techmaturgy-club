@@ -1,5 +1,4 @@
 ---
-published: false
 date: 2022-01-25 00:00:00 -0000
 title: depth year: the end of metaposting
 permalink: beehiveth/no-meta
