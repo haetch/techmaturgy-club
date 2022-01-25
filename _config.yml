@@ -20,8 +20,10 @@ defaults:
       published: true
       layout: "post"
       comments:
-        host: weirder.earth
-        username: beehiveth
+        show: true
+        fediHost: weirder.earth
+        fediusername: beehiveth
+
   -
     scope:
       path: "private" # an empty string here means all files in the project
